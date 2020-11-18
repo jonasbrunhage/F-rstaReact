@@ -1,8 +1,10 @@
+import { Routes } from './routes/Routes'
+
 function App() {
   return (
-    <div>
+    <Routes>
       <h1>Hej</h1>
-    </div>
+    </Routes>
   );
 }
 
