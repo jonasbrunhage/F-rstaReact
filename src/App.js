@@ -1,9 +1,11 @@
 import { Routes } from './routes/Routes'
+import { NavigationBar } from './components/navigationbar/NavigationBar'
+import './shared/css/GlobalCSS.css'
 
 function App() {
   return (
     <Routes>
-      <h1>Hej</h1>
+      <NavigationBar />
     </Routes>
   );
 }

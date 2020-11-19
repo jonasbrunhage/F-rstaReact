@@ -1,0 +1,12 @@
+.navigationBarWrapper {
+	background-color: olivedrab;
+	padding: 1%;
+}
+
+.logotype {
+	width: 100px;
+}
+
+.logotype, .signIn {
+    cursor: pointer;
+}
